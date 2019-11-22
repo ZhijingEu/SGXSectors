@@ -1,0 +1,3382 @@
+[
+ {
+   "Symbol": "A75.SI",
+   "StockName": "ACE ACHIEVE INFOCOM LIMITED ",
+   "Sector": "Communication Services"
+ },
+ {
+   "Symbol": "S91.SI",
+   "StockName": "ALIBABA PICTURES GROUP LIMITED ",
+   "Sector": "Communication Services"
+ },
+ {
+   "Symbol": "YYB.SI",
+   "StockName": "ARION ENTERTAINMENT SPORE LTD ",
+   "Sector": "Communication Services"
+ },
+ {
+   "Symbol": "S7OU.SI",
+   "StockName": "ASIAN PAY TELEVISION TRUST ",
+   "Sector": "Communication Services"
+ },
+ {
+   "Symbol": "1B0.SI",
+   "StockName": "MM2 ASIA LTD. ",
+   "Sector": "Communication Services"
+ },
+ {
+   "Symbol": "CJLU.SI",
+   "StockName": "NETLINK NBN TRUST ",
+   "Sector": "Communication Services"
+ },
+ {
+   "Symbol": "B07.SI",
+   "StockName": "NGSC LIMITED ",
+   "Sector": "Communication Services"
+ },
+ {
+   "Symbol": "5BI.SI",
+   "StockName": "POLARIS LTD. ",
+   "Sector": "Communication Services"
+ },
+ {
+   "Symbol": "BAI.SI",
+   "StockName": "SEVAK LIMITED ",
+   "Sector": "Communication Services"
+ },
+ {
+   "Symbol": "1F0.SI",
+   "StockName": "SHOPPER360 LIMITED ",
+   "Sector": "Communication Services"
+ },
+ {
+   "Symbol": "T39.SI",
+   "StockName": "SINGAPORE PRESS HLDGS LTD ",
+   "Sector": "Communication Services"
+ },
+ {
+   "Symbol": "Z74.SI",
+   "StockName": "SINGTEL ",
+   "Sector": "Communication Services"
+ },
+ {
+   "Symbol": "40E.SI",
+   "StockName": "SPACKMAN ENTERTAINMENT GRP LTD ",
+   "Sector": "Communication Services"
+ },
+ {
+   "Symbol": "CC3.SI",
+   "StockName": "STARHUB LTD ",
+   "Sector": "Communication Services"
+ },
+ {
+   "Symbol": "E27.SI",
+   "StockName": "THE PLACE HOLDINGS LIMITED ",
+   "Sector": "Communication Services"
+ },
+ {
+   "Symbol": "1D1.SI",
+   "StockName": "UNUSUAL LIMITED ",
+   "Sector": "Communication Services"
+ },
+ {
+   "Symbol": "OMK.SI",
+   "StockName": "VIVIDTHREE HOLDINGS LTD. ",
+   "Sector": "Communication Services"
+ },
+ {
+   "Symbol": "42F.SI",
+   "StockName": "YINDA INFOCOMM LIMITED ",
+   "Sector": "Communication Services"
+ },
+ {
+   "Symbol": "533.SI",
+   "StockName": "ABR HOLDINGS LIMITED ",
+   "Sector": "Consumer Discretionary"
+ },
+ {
+   "Symbol": "ADQU.SI",
+   "StockName": "ACCORDIA GOLF TRUST ",
+   "Sector": "Consumer Discretionary"
+ },
+ {
+   "Symbol": "5EF.SI",
+   "StockName": "ADVENTUS HOLDINGS LIMITED ",
+   "Sector": "Consumer Discretionary"
+ },
+ {
+   "Symbol": "L38.SI",
+   "StockName": "AF GLOBAL LIMITED ",
+   "Sector": "Consumer Discretionary"
+ },
+ {
+   "Symbol": "A34.SI",
+   "StockName": "AMARA HOLDINGS LTD ",
+   "Sector": "Consumer Discretionary"
+ },
+ {
+   "Symbol": "BQI.SI",
+   "StockName": "ASIA FASHION HOLDINGS LIMITED ",
+   "Sector": "Consumer Discretionary"
+ },
+ {
+   "Symbol": "5AM.SI",
+   "StockName": "ASIATRAVEL.COM HOLDINGS LTD ",
+   "Sector": "Consumer Discretionary"
+ },
+ {
+   "Symbol": "B58.SI",
+   "StockName": "BANYAN TREE HOLDINGS LIMITED ",
+   "Sector": "Consumer Discretionary"
+ },
+ {
+   "Symbol": "CTN.SI",
+   "StockName": "BREADTALK GROUP LIMITED ",
+   "Sector": "Consumer Discretionary"
+ },
+ {
+   "Symbol": "D2U.SI",
+   "StockName": "CACOLA FURNITURE INTL LIMITED ",
+   "Sector": "Consumer Discretionary"
+ },
+ {
+   "Symbol": "BAC.SI",
+   "StockName": "CAMSING HEALTHCARE LIMITED ",
+   "Sector": "Consumer Discretionary"
+ },
+ {
+   "Symbol": "C04.SI",
+   "StockName": "CASA HOLDINGS LIMITED ",
+   "Sector": "Consumer Discretionary"
+ },
+ {
+   "Symbol": "573.SI",
+   "StockName": "CHALLENGER TECHNOLOGIES LTD ",
+   "Sector": "Consumer Discretionary"
+ },
+ {
+   "Symbol": "5TW.SI",
+   "StockName": "CHASWOOD RESOURCES HLDGS LTD. ",
+   "Sector": "Consumer Discretionary"
+ },
+ {
+   "Symbol": "5OU.SI",
+   "StockName": "CHINA ENVIRONMENT LTD. ",
+   "Sector": "Consumer Discretionary"
+ },
+ {
+   "Symbol": "RS1.SI",
+   "StockName": "CHINA ENVIRONMENTAL RES GP LTD ",
+   "Sector": "Consumer Discretionary"
+ },
+ {
+   "Symbol": "AZZ.SI",
+   "StockName": "CHINA GAOXIAN FIBREFAB HLDGLTD ",
+   "Sector": "Consumer Discretionary"
+ },
+ {
+   "Symbol": "J18.SI",
+   "StockName": "CHINA JISHAN HOLDINGS LIMITED ",
+   "Sector": "Consumer Discretionary"
+ },
+ {
+   "Symbol": "E90.SI",
+   "StockName": "CHINA SKY CHEM FIBRE CO., LTD. ",
+   "Sector": "Consumer Discretionary"
+ },
+ {
+   "Symbol": "FQ8.SI",
+   "StockName": "CHINA SPORTS INTL LIMITED ",
+   "Sector": "Consumer Discretionary"
+ },
+ {
+   "Symbol": "AZW.SI",
+   "StockName": "CHINA TAISAN TECH GRP HLDGSLTD ",
+   "Sector": "Consumer Discretionary"
+ },
+ {
+   "Symbol": "42E.SI",
+   "StockName": "CHOO CHIANG HOLDINGS LTD. ",
+   "Sector": "Consumer Discretionary"
+ },
+ {
+   "Symbol": "N0Z.SI",
+   "StockName": "COMBINE WILL INTL HLDGS LTD ",
+   "Sector": "Consumer Discretionary"
+ },
+ {
+   "Symbol": "C41.SI",
+   "StockName": "CORTINA HOLDINGS LIMITED ",
+   "Sector": "Consumer Discretionary"
+ },
+ {
+   "Symbol": "5SO.SI",
+   "StockName": "DUTY FREE INTERNATIONALLIMITED ",
+   "Sector": "Consumer Discretionary"
+ },
+ {
+   "Symbol": "5MQ.SI",
+   "StockName": "EPICENTRE HOLDINGS LIMITED ",
+   "Sector": "Consumer Discretionary"
+ },
+ {
+   "Symbol": "5G1.SI",
+   "StockName": "EUROSPORTS GLOBAL LIMITED ",
+   "Sector": "Consumer Discretionary"
+ },
+ {
+   "Symbol": "F10.SI",
+   "StockName": "F J BENJAMIN HOLDINGS LTD ",
+   "Sector": "Consumer Discretionary"
+ },
+ {
+   "Symbol": "AWK.SI",
+   "StockName": "FUXING CHINA GROUP LIMITED ",
+   "Sector": "Consumer Discretionary"
+ },
+ {
+   "Symbol": "5IG.SI",
+   "StockName": "GALLANT VENTURE LTD. ",
+   "Sector": "Consumer Discretionary"
+ },
+ {
+   "Symbol": "G13.SI",
+   "StockName": "GENTING SINGAPORE LIMITED ",
+   "Sector": "Consumer Discretionary"
+ },
+ {
+   "Symbol": "B16.SI",
+   "StockName": "GL LIMITED ",
+   "Sector": "Consumer Discretionary"
+ },
+ {
+   "Symbol": "AVX.SI",
+   "StockName": "HL GLOBAL ENTERPRISES LIMITED ",
+   "Sector": "Consumer Discretionary"
+ },
+ {
+   "Symbol": "H18.SI",
+   "StockName": "HOTEL GRAND CENTRAL LTD ",
+   "Sector": "Consumer Discretionary"
+ },
+ {
+   "Symbol": "H15.SI",
+   "StockName": "HOTEL PROPERTIES LTD ",
+   "Sector": "Consumer Discretionary"
+ },
+ {
+   "Symbol": "H12.SI",
+   "StockName": "HOTEL ROYAL LTD ",
+   "Sector": "Consumer Discretionary"
+ },
+ {
+   "Symbol": "BOU.SI",
+   "StockName": "INFORMATICS EDUCATION LTD. ",
+   "Sector": "Consumer Discretionary"
+ },
+ {
+   "Symbol": "I15.SI",
+   "StockName": "ISETAN SINGAPORE) LTD ",
+   "Sector": "Consumer Discretionary"
+ },
+ {
+   "Symbol": "J17.SI",
+   "StockName": "JACKSPEED CORPORATION LIMITED ",
+   "Sector": "Consumer Discretionary"
+ },
+ {
+   "Symbol": "5OI.SI",
+   "StockName": "JAPAN FOODS HOLDING LTD. ",
+   "Sector": "Consumer Discretionary"
+ },
+ {
+   "Symbol": "C07.SI",
+   "StockName": "JARDINE CYCLE & CARRIAGE LTD ",
+   "Sector": "Consumer Discretionary"
+ },
+ {
+   "Symbol": "42R.SI",
+   "StockName": "JUMBO GROUP LIMITED ",
+   "Sector": "Consumer Discretionary"
+ },
+ {
+   "Symbol": "1A0.SI",
+   "StockName": "KATRINA GROUP LTD. ",
+   "Sector": "Consumer Discretionary"
+ },
+ {
+   "Symbol": "1D0.SI",
+   "StockName": "KIMLY LIMITED ",
+   "Sector": "Consumer Discretionary"
+ },
+ {
+   "Symbol": "5TI.SI",
+   "StockName": "KITCHEN CULTURE HOLDINGS LTD. ",
+   "Sector": "Consumer Discretionary"
+ },
+ {
+   "Symbol": "BJZ.SI",
+   "StockName": "KODA LTD ",
+   "Sector": "Consumer Discretionary"
+ },
+ {
+   "Symbol": "5I1.SI",
+   "StockName": "KOP LIMITED ",
+   "Sector": "Consumer Discretionary"
+ },
+ {
+   "Symbol": "VL6.SI",
+   "StockName": "KOUFU GROUP LIMITED ",
+   "Sector": "Consumer Discretionary"
+ },
+ {
+   "Symbol": "XCF.SI",
+   "StockName": "KTMG LIMITED ",
+   "Sector": "Consumer Discretionary"
+ },
+ {
+   "Symbol": "5EL.SI",
+   "StockName": "LASSETERS INTL HOLDINGS LTD ",
+   "Sector": "Consumer Discretionary"
+ },
+ {
+   "Symbol": "1D3.SI",
+   "StockName": "LIFEBRANDZ LTD. ",
+   "Sector": "Consumer Discretionary"
+ },
+ {
+   "Symbol": "5IE.SI",
+   "StockName": "LORENZO INTERNATIONAL LIMITED ",
+   "Sector": "Consumer Discretionary"
+ },
+ {
+   "Symbol": "1H8.SI",
+   "StockName": "LY CORPORATION LIMITED ",
+   "Sector": "Consumer Discretionary"
+ },
+ {
+   "Symbol": "M04.SI",
+   "StockName": "MANDARIN ORIENTAL INTL LTD ",
+   "Sector": "Consumer Discretionary"
+ },
+ {
+   "Symbol": "5OX.SI",
+   "StockName": "MARY CHIA HOLDINGS LIMITED ",
+   "Sector": "Consumer Discretionary"
+ },
+ {
+   "Symbol": "SJY.SI",
+   "StockName": "MEGROUP LTD. ",
+   "Sector": "Consumer Discretionary"
+ },
+ {
+   "Symbol": "1H4.SI",
+   "StockName": "MEMORIES GROUP LIMITED ",
+   "Sector": "Consumer Discretionary"
+ },
+ {
+   "Symbol": "5RF.SI",
+   "StockName": "MERCURIUS CAP INVESTMENT LTD ",
+   "Sector": "Consumer Discretionary"
+ },
+ {
+   "Symbol": "M01.SI",
+   "StockName": "METRO HOLDINGS LIMITED ",
+   "Sector": "Consumer Discretionary"
+ },
+ {
+   "Symbol": "CNE.SI",
+   "StockName": "MINDCHAMPS PRESCHOOL LIMITED ",
+   "Sector": "Consumer Discretionary"
+ },
+ {
+   "Symbol": "5WJ.SI",
+   "StockName": "MONEYMAX FINANCIAL SERVICESLTD ",
+   "Sector": "Consumer Discretionary"
+ },
+ {
+   "Symbol": "1G6.SI",
+   "StockName": "NO SIGNBOARD HOLDINGS LTD. ",
+   "Sector": "Consumer Discretionary"
+ },
+ {
+   "Symbol": "543.SI",
+   "StockName": "NOEL GIFTS INTERNATIONAL LTD ",
+   "Sector": "Consumer Discretionary"
+ },
+ {
+   "Symbol": "RQ1.SI",
+   "StockName": "OVERSEAS EDUCATION LIMITED ",
+   "Sector": "Consumer Discretionary"
+ },
+ {
+   "Symbol": "O9E.SI",
+   "StockName": "PARKSON RETAIL ASIA LIMITED ",
+   "Sector": "Consumer Discretionary"
+ },
+ {
+   "Symbol": "AYD.SI",
+   "StockName": "PLASTOFORM HOLDINGS LIMITED ",
+   "Sector": "Consumer Discretionary"
+ },
+ {
+   "Symbol": "BCV.SI",
+   "StockName": "QIAN HU CORPORATION LIMITED ",
+   "Sector": "Consumer Discretionary"
+ },
+ {
+   "Symbol": "NR7.SI",
+   "StockName": "RAFFLES EDUCATION CORP LTD ",
+   "Sector": "Consumer Discretionary"
+ },
+ {
+   "Symbol": "LUY.SI",
+   "StockName": "RAFFLES INFRASTRUCTUREHLDGSLTD ",
+   "Sector": "Consumer Discretionary"
+ },
+ {
+   "Symbol": "1G1.SI",
+   "StockName": "RE&S HOLDINGS LIMITED ",
+   "Sector": "Consumer Discretionary"
+ },
+ {
+   "Symbol": "RCU.SI",
+   "StockName": "REVEZ CORPORATION LTD. ",
+   "Sector": "Consumer Discretionary"
+ },
+ {
+   "Symbol": "5DO.SI",
+   "StockName": "SAKAE HOLDINGS LTD. ",
+   "Sector": "Consumer Discretionary"
+ },
+ {
+   "Symbol": "528.SI",
+   "StockName": "SECOND CHANCE PROPERTIES LTD ",
+   "Sector": "Consumer Discretionary"
+ },
+ {
+   "Symbol": "S07.SI",
+   "StockName": "SHANGRI-LA ASIA LIMITED ",
+   "Sector": "Consumer Discretionary"
+ },
+ {
+   "Symbol": "URR.SI",
+   "StockName": "SIM LEISURE GROUP LTD. ",
+   "Sector": "Consumer Discretionary"
+ },
+ {
+   "Symbol": "Y45.SI",
+   "StockName": "SINGAPORE MYANMAR INVESTCO LTD ",
+   "Sector": "Consumer Discretionary"
+ },
+ {
+   "Symbol": "5HH.SI",
+   "StockName": "SINJIA LAND LIMITED ",
+   "Sector": "Consumer Discretionary"
+ },
+ {
+   "Symbol": "AD8.SI",
+   "StockName": "SINO TECHFIBRE LIMITED ",
+   "Sector": "Consumer Discretionary"
+ },
+ {
+   "Symbol": "5LE.SI",
+   "StockName": "SITRA HOLDINGS INTL) LIMITED ",
+   "Sector": "Consumer Discretionary"
+ },
+ {
+   "Symbol": "42G.SI",
+   "StockName": "SK JEWELLERY GROUP LIMITED ",
+   "Sector": "Consumer Discretionary"
+ },
+ {
+   "Symbol": "5KI.SI",
+   "StockName": "SOUP RESTAURANT GROUP LIMITED ",
+   "Sector": "Consumer Discretionary"
+ },
+ {
+   "Symbol": "NC2.SI",
+   "StockName": "SRI TRANG AGRO-INDUSTRY PCL ",
+   "Sector": "Consumer Discretionary"
+ },
+ {
+   "Symbol": "DRX.SI",
+   "StockName": "ST GROUP FOOD IND HLDG LIMITED ",
+   "Sector": "Consumer Discretionary"
+ },
+ {
+   "Symbol": "H07.SI",
+   "StockName": "STAMFORD LAND CORPORATION LTD ",
+   "Sector": "Consumer Discretionary"
+ },
+ {
+   "Symbol": "S29.SI",
+   "StockName": "STAMFORD TYRES CORPORATIONLTD ",
+   "Sector": "Consumer Discretionary"
+ },
+ {
+   "Symbol": "S85.SI",
+   "StockName": "STRACO CORPORATION LIMITED ",
+   "Sector": "Consumer Discretionary"
+ },
+ {
+   "Symbol": "BHU.SI",
+   "StockName": "SUTL ENTERPRISE LIMITED ",
+   "Sector": "Consumer Discretionary"
+ },
+ {
+   "Symbol": "AWI.SI",
+   "StockName": "THAKRAL CORPORATION LTD ",
+   "Sector": "Consumer Discretionary"
+ },
+ {
+   "Symbol": "AGS.SI",
+   "StockName": "THE HOUR GLASS LIMITED ",
+   "Sector": "Consumer Discretionary"
+ },
+ {
+   "Symbol": "42L.SI",
+   "StockName": "TLV HOLDINGS LIMITED ",
+   "Sector": "Consumer Discretionary"
+ },
+ {
+   "Symbol": "T19.SI",
+   "StockName": "TRANSCORP HOLDINGS LIMITED ",
+   "Sector": "Consumer Discretionary"
+ },
+ {
+   "Symbol": "BCZ.SI",
+   "StockName": "TRAVELITE HOLDINGS LTD. ",
+   "Sector": "Consumer Discretionary"
+ },
+ {
+   "Symbol": "KUH.SI",
+   "StockName": "TSH CORPORATION LTD ",
+   "Sector": "Consumer Discretionary"
+ },
+ {
+   "Symbol": "T09.SI",
+   "StockName": "TT INTERNATIONAL LIMITED ",
+   "Sector": "Consumer Discretionary"
+ },
+ {
+   "Symbol": "540.SI",
+   "StockName": "TUNG LOK RESTAURANTS 2000 LTD ",
+   "Sector": "Consumer Discretionary"
+ },
+ {
+   "Symbol": "BFU.SI",
+   "StockName": "TYE SOON LTD ",
+   "Sector": "Consumer Discretionary"
+ },
+ {
+   "Symbol": "1F1.SI",
+   "StockName": "Y VENTURES GROUP LTD. ",
+   "Sector": "Consumer Discretionary"
+ },
+ {
+   "Symbol": "BPF.SI",
+   "StockName": "YHI INTERNATIONAL LIMITED ",
+   "Sector": "Consumer Discretionary"
+ },
+ {
+   "Symbol": "5SR.SI",
+   "StockName": "ZHONGMIN BAIHUI RETAIL GRP LTD ",
+   "Sector": "Consumer Discretionary"
+ },
+ {
+   "Symbol": "CGN.SI",
+   "StockName": "BEST WORLD INTERNATIONAL LTD ",
+   "Sector": "Consumer Staples"
+ },
+ {
+   "Symbol": "P8Z.SI",
+   "StockName": "BUMITAMA AGRI LTD. ",
+   "Sector": "Consumer Staples"
+ },
+ {
+   "Symbol": "G54.SI",
+   "StockName": "CHINA ESSENCE GROUP LTD. ",
+   "Sector": "Consumer Staples"
+ },
+ {
+   "Symbol": "B0Z.SI",
+   "StockName": "CHINA FISHERY GROUP LIMITED ",
+   "Sector": "Consumer Staples"
+ },
+ {
+   "Symbol": "P74.SI",
+   "StockName": "CHINA KANGDA FOOD COMPANY LTD ",
+   "Sector": "Consumer Staples"
+ },
+ {
+   "Symbol": "42W.SI",
+   "StockName": "CHINA STAR FOOD GROUP LIMITED ",
+   "Sector": "Consumer Staples"
+ },
+ {
+   "Symbol": "D01.SI",
+   "StockName": "DAIRY FARM INT'L HOLDINGS LTD ",
+   "Sector": "Consumer Staples"
+ },
+ {
+   "Symbol": "D03.SI",
+   "StockName": "DEL MONTE PACIFIC LIMITED ",
+   "Sector": "Consumer Staples"
+ },
+ {
+   "Symbol": "P34.SI",
+   "StockName": "DELFI LIMITED ",
+   "Sector": "Consumer Staples"
+ },
+ {
+   "Symbol": "BKV.SI",
+   "StockName": "DUKANG DISTILLERS HLDGS LTD ",
+   "Sector": "Consumer Staples"
+ },
+ {
+   "Symbol": "5HG.SI",
+   "StockName": "EDITION LTD. ",
+   "Sector": "Consumer Staples"
+ },
+ {
+   "Symbol": "BQD.SI",
+   "StockName": "ENVICTUS INTERNATIONAL HLDGLTD ",
+   "Sector": "Consumer Staples"
+ },
+ {
+   "Symbol": "EB5.SI",
+   "StockName": "FIRST RESOURCES LIMITED ",
+   "Sector": "Consumer Staples"
+ },
+ {
+   "Symbol": "F03.SI",
+   "StockName": "FOOD EMPIRE HOLDINGS LIMITED ",
+   "Sector": "Consumer Staples"
+ },
+ {
+   "Symbol": "F99.SI",
+   "StockName": "FRASER AND NEAVE LIMITED ",
+   "Sector": "Consumer Staples"
+ },
+ {
+   "Symbol": "BLW.SI",
+   "StockName": "GLOBAL PALM RESOURCES HLGS LTD ",
+   "Sector": "Consumer Staples"
+ },
+ {
+   "Symbol": "E5H.SI",
+   "StockName": "GOLDEN AGRI-RESOURCES LTD ",
+   "Sector": "Consumer Staples"
+ },
+ {
+   "Symbol": "DM0.SI",
+   "StockName": "HANWELL HOLDINGS LIMITED ",
+   "Sector": "Consumer Staples"
+ },
+ {
+   "Symbol": "5EV.SI",
+   "StockName": "HOSEN GROUP LTD ",
+   "Sector": "Consumer Staples"
+ },
+ {
+   "Symbol": "5JS.SI",
+   "StockName": "INDOFOOD AGRI RESOURCES LTD. ",
+   "Sector": "Consumer Staples"
+ },
+ {
+   "Symbol": "UD2.SI",
+   "StockName": "JAPFA LTD. ",
+   "Sector": "Consumer Staples"
+ },
+ {
+   "Symbol": "BEW.SI",
+   "StockName": "JB FOODS LIMITED ",
+   "Sector": "Consumer Staples"
+ },
+ {
+   "Symbol": "BNE.SI",
+   "StockName": "KENCANA AGRI LIMITED ",
+   "Sector": "Consumer Staples"
+ },
+ {
+   "Symbol": "K03.SI",
+   "StockName": "KHONG GUAN LIMITED ",
+   "Sector": "Consumer Staples"
+ },
+ {
+   "Symbol": "L46.SI",
+   "StockName": "LUZHOU BIO-CHEM TECHNOLOGY LTD ",
+   "Sector": "Consumer Staples"
+ },
+ {
+   "Symbol": "MV4.SI",
+   "StockName": "MEWAH INTERNATIONAL INC. ",
+   "Sector": "Consumer Staples"
+ },
+ {
+   "Symbol": "AZT.SI",
+   "StockName": "NUTRYFARM INTERNATIONAL LTD ",
+   "Sector": "Consumer Staples"
+ },
+ {
+   "Symbol": "579.SI",
+   "StockName": "OCEANUS GROUP LIMITED ",
+   "Sector": "Consumer Staples"
+ },
+ {
+   "Symbol": "O32.SI",
+   "StockName": "OLAM INTERNATIONAL LIMITED ",
+   "Sector": "Consumer Staples"
+ },
+ {
+   "Symbol": "5ML.SI",
+   "StockName": "OLD CHANG KEE LTD. ",
+   "Sector": "Consumer Staples"
+ },
+ {
+   "Symbol": "5SY.SI",
+   "StockName": "ONEAPEX LIMITED ",
+   "Sector": "Consumer Staples"
+ },
+ {
+   "Symbol": "P11.SI",
+   "StockName": "PACIFIC ANDES RESOURCES DEVLTD ",
+   "Sector": "Consumer Staples"
+ },
+ {
+   "Symbol": "Q01.SI",
+   "StockName": "QAF LTD ",
+   "Sector": "Consumer Staples"
+ },
+ {
+   "Symbol": "OV8.SI",
+   "StockName": "SHENG SIONG GROUP LTD ",
+   "Sector": "Consumer Staples"
+ },
+ {
+   "Symbol": "T4B.SI",
+   "StockName": "SINO GRANDNESS FOOD IND GP LTD ",
+   "Sector": "Consumer Staples"
+ },
+ {
+   "Symbol": "AAJ.SI",
+   "StockName": "SUNMOON FOOD COMPANY LIMITED ",
+   "Sector": "Consumer Staples"
+ },
+ {
+   "Symbol": "Y92.SI",
+   "StockName": "THAI BEVERAGE PUBLIC CO LTD ",
+   "Sector": "Consumer Staples"
+ },
+ {
+   "Symbol": "AZR.SI",
+   "StockName": "UNITED FOOD HOLDINGS LIMITED ",
+   "Sector": "Consumer Staples"
+ },
+ {
+   "Symbol": "F34.SI",
+   "StockName": "WILMAR INTERNATIONAL LIMITED ",
+   "Sector": "Consumer Staples"
+ },
+ {
+   "Symbol": "BJV.SI",
+   "StockName": "YAMADA GREEN RESOURCES LIMITED ",
+   "Sector": "Consumer Staples"
+ },
+ {
+   "Symbol": "Y03.SI",
+   "StockName": "YEO HIAP SENG LTD ",
+   "Sector": "Consumer Staples"
+ },
+ {
+   "Symbol": "5EG.SI",
+   "StockName": "ZHONGXIN FRUIT AND JUICE LTD ",
+   "Sector": "Consumer Staples"
+ },
+ {
+   "Symbol": "BLZ.SI",
+   "StockName": "ADVANCED HOLDINGS LTD. ",
+   "Sector": "Energy"
+ },
+ {
+   "Symbol": "5TS.SI",
+   "StockName": "ALPHA ENERGY HOLDINGS LIMITED ",
+   "Sector": "Energy"
+ },
+ {
+   "Symbol": "RF7.SI",
+   "StockName": "AMOS GROUP LIMITED ",
+   "Sector": "Energy"
+ },
+ {
+   "Symbol": "Y35.SI",
+   "StockName": "ANAN INTERNATIONAL LIMITED ",
+   "Sector": "Energy"
+ },
+ {
+   "Symbol": "5AL.SI",
+   "StockName": "ANNICA HOLDINGS LIMITED ",
+   "Sector": "Energy"
+ },
+ {
+   "Symbol": "5UL.SI",
+   "StockName": "ATLANTIC NAVIGATION HLDG S)LTD ",
+   "Sector": "Energy"
+ },
+ {
+   "Symbol": "BTP.SI",
+   "StockName": "BAKER TECHNOLOGY LIMITED ",
+   "Sector": "Energy"
+ },
+ {
+   "Symbol": "41H.SI",
+   "StockName": "BLACKGOLD NATURAL RESOURCESLTD ",
+   "Sector": "Energy"
+ },
+ {
+   "Symbol": "C13.SI",
+   "StockName": "CH OFFSHORE LTD ",
+   "Sector": "Energy"
+ },
+ {
+   "Symbol": "G92.SI",
+   "StockName": "CHINA AVIATION OIL S) CORP LTD ",
+   "Sector": "Energy"
+ },
+ {
+   "Symbol": "B9S.SI",
+   "StockName": "COSMOSTEEL HOLDINGS LIMITED ",
+   "Sector": "Energy"
+ },
+ {
+   "Symbol": "594.SI",
+   "StockName": "CWX GLOBAL LIMITED ",
+   "Sector": "Energy"
+ },
+ {
+   "Symbol": "NO4.SI",
+   "StockName": "DYNA-MAC HOLDINGS LTD. ",
+   "Sector": "Energy"
+ },
+ {
+   "Symbol": "UQ4.SI",
+   "StockName": "EMAS OFFSHORE LIMITED ",
+   "Sector": "Energy"
+ },
+ {
+   "Symbol": "5ME.SI",
+   "StockName": "EZION HOLDINGS LIMITED ",
+   "Sector": "Energy"
+ },
+ {
+   "Symbol": "5DN.SI",
+   "StockName": "EZRA HOLDINGS LIMITED ",
+   "Sector": "Energy"
+ },
+ {
+   "Symbol": "5FL.SI",
+   "StockName": "FALCON ENERGY GROUP LIMITED ",
+   "Sector": "Energy"
+ },
+ {
+   "Symbol": "RE4.SI",
+   "StockName": "GEO ENERGY RESOURCES LIMITED ",
+   "Sector": "Energy"
+ },
+ {
+   "Symbol": "AUE.SI",
+   "StockName": "GOLDEN ENERGY AND RESOURCESLTD ",
+   "Sector": "Energy"
+ },
+ {
+   "Symbol": "BLH.SI",
+   "StockName": "HAI LECK HOLDINGS LIMITED ",
+   "Sector": "Energy"
+ },
+ {
+   "Symbol": "5OR.SI",
+   "StockName": "HEATEC JIETONG HOLDINGS LTD. ",
+   "Sector": "Energy"
+ },
+ {
+   "Symbol": "5PD.SI",
+   "StockName": "HENGYANG PETROCHEM LOG LIMITED ",
+   "Sector": "Energy"
+ },
+ {
+   "Symbol": "510.SI",
+   "StockName": "HIAP SENG ENGINEERING LTD ",
+   "Sector": "Energy"
+ },
+ {
+   "Symbol": "5TN.SI",
+   "StockName": "IEV HOLDINGS LIMITED ",
+   "Sector": "Energy"
+ },
+ {
+   "Symbol": "5GI.SI",
+   "StockName": "INTERRA RESOURCES LIMITED ",
+   "Sector": "Energy"
+ },
+ {
+   "Symbol": "FQ7.SI",
+   "StockName": "JASPER INVESTMENTS LIMITED ",
+   "Sector": "Energy"
+ },
+ {
+   "Symbol": "5G2.SI",
+   "StockName": "KIMHENG OFFSHORE&MARINE HLDLTD ",
+   "Sector": "Energy"
+ },
+ {
+   "Symbol": "SK3.SI",
+   "StockName": "KRISENERGY LTD. ",
+   "Sector": "Energy"
+ },
+ {
+   "Symbol": "BRE.SI",
+   "StockName": "LINC ENERGY LTD ",
+   "Sector": "Energy"
+ },
+ {
+   "Symbol": "41S.SI",
+   "StockName": "MAGNUS ENERGY GROUP LTD. ",
+   "Sector": "Energy"
+ },
+ {
+   "Symbol": "5NF.SI",
+   "StockName": "MENCAST HOLDINGS LTD. ",
+   "Sector": "Energy"
+ },
+ {
+   "Symbol": "DU4.SI",
+   "StockName": "MERMAID MARITIME PUBLIC CO LTD ",
+   "Sector": "Energy"
+ },
+ {
+   "Symbol": "AWO.SI",
+   "StockName": "MIRACH ENERGY LIMITED ",
+   "Sector": "Energy"
+ },
+ {
+   "Symbol": "M05.SI",
+   "StockName": "MTQ CORPORATION LIMITED ",
+   "Sector": "Energy"
+ },
+ {
+   "Symbol": "42D.SI",
+   "StockName": "NAUTICAWT LIMITED ",
+   "Sector": "Energy"
+ },
+ {
+   "Symbol": "BMT.SI",
+   "StockName": "NEW SILKROUTES GROUP LIMITED ",
+   "Sector": "Energy"
+ },
+ {
+   "Symbol": "AJ2.SI",
+   "StockName": "OUHUA ENERGY HOLDINGS LIMITED ",
+   "Sector": "Energy"
+ },
+ {
+   "Symbol": "U6C.SI",
+   "StockName": "PACC OFFSHORE SVCS HLDG LTD. ",
+   "Sector": "Energy"
+ },
+ {
+   "Symbol": "T8V.SI",
+   "StockName": "PACIFIC RADIANCE LTD ",
+   "Sector": "Energy"
+ },
+ {
+   "Symbol": "5MM.SI",
+   "StockName": "RESOURCES PRIMA GROUP LIMITED ",
+   "Sector": "Energy"
+ },
+ {
+   "Symbol": "5WH.SI",
+   "StockName": "REX INTERNATIONAL HOLDING LTD ",
+   "Sector": "Energy"
+ },
+ {
+   "Symbol": "T13.SI",
+   "StockName": "RH PETROGAS LIMITED ",
+   "Sector": "Energy"
+ },
+ {
+   "Symbol": "C9Q.SI",
+   "StockName": "SINOSTAR PEC HOLDINGS LIMITED ",
+   "Sector": "Energy"
+ },
+ {
+   "Symbol": "BGK.SI",
+   "StockName": "SWIBER HOLDINGS LIMITED ",
+   "Sector": "Energy"
+ },
+ {
+   "Symbol": "ADP.SI",
+   "StockName": "SWISSCO HOLDINGS LIMITED ",
+   "Sector": "Energy"
+ },
+ {
+   "Symbol": "5CQ.SI",
+   "StockName": "TECHNICS OIL & GAS LIMITED ",
+   "Sector": "Energy"
+ },
+ {
+   "Symbol": "BGO.SI",
+   "StockName": "UNIVERSAL RESOURCE & SVCS LTD ",
+   "Sector": "Energy"
+ },
+ {
+   "Symbol": "BRS.SI",
+   "StockName": "USP GROUP LIMITED ",
+   "Sector": "Energy"
+ },
+ {
+   "Symbol": "WPC.SI",
+   "StockName": "VALLIANZ HOLDINGS LTD ",
+   "Sector": "Energy"
+ },
+ {
+   "Symbol": "557.SI",
+   "StockName": "VIKING OFFSHORE AND MARINE LTD ",
+   "Sector": "Energy"
+ },
+ {
+   "Symbol": "1I5.SI",
+   "StockName": "AYONDO LTD. ",
+   "Sector": "Financials"
+ },
+ {
+   "Symbol": "CJN.SI",
+   "StockName": "BRITISH & MALAYAN HLDG LIMITED ",
+   "Sector": "Financials"
+ },
+ {
+   "Symbol": "D05.SI",
+   "StockName": "DBS GROUP HOLDINGS LTD ",
+   "Sector": "Financials"
+ },
+ {
+   "Symbol": "D8DU.SI",
+   "StockName": "FIRST SHIP LEASE TRUST ",
+   "Sector": "Financials"
+ },
+ {
+   "Symbol": "I5H.SI",
+   "StockName": "FORISE INTERNATIONAL LIMITED ",
+   "Sector": "Financials"
+ },
+ {
+   "Symbol": "B73.SI",
+   "StockName": "GLOBAL INVESTMENTS LIMITED ",
+   "Sector": "Financials"
+ },
+ {
+   "Symbol": "G07.SI",
+   "StockName": "GREAT EASTERN HLDGS LTD ",
+   "Sector": "Financials"
+ },
+ {
+   "Symbol": "S41.SI",
+   "StockName": "HONG LEONG FINANCE LIMITED ",
+   "Sector": "Financials"
+ },
+ {
+   "Symbol": "BLS.SI",
+   "StockName": "HOTUNG INVESTMENT HLDGS LTD ",
+   "Sector": "Financials"
+ },
+ {
+   "Symbol": "AIY.SI",
+   "StockName": "IFAST CORPORATION LTD. ",
+   "Sector": "Financials"
+ },
+ {
+   "Symbol": "I49.SI",
+   "StockName": "IFS CAPITAL LIMITED ",
+   "Sector": "Financials"
+ },
+ {
+   "Symbol": "I26.SI",
+   "StockName": "INNOPAC HOLDINGS LIMITED ",
+   "Sector": "Financials"
+ },
+ {
+   "Symbol": "E9L.SI",
+   "StockName": "JOYAS INTERNATIONAL HLDGS LTD ",
+   "Sector": "Financials"
+ },
+ {
+   "Symbol": "N14.SI",
+   "StockName": "M DEVELOPMENT LTD. ",
+   "Sector": "Financials"
+ },
+ {
+   "Symbol": "5UF.SI",
+   "StockName": "MAXI-CASH FIN SVCS CORP LTD ",
+   "Sector": "Financials"
+ },
+ {
+   "Symbol": "5QY.SI",
+   "StockName": "NET PACIFIC FIN HLDGS LTD ",
+   "Sector": "Financials"
+ },
+ {
+   "Symbol": "N33.SI",
+   "StockName": "NOMURA HOLDINGS, INC ",
+   "Sector": "Financials"
+ },
+ {
+   "Symbol": "O39.SI",
+   "StockName": "OVERSEA-CHINESE BANKING CORP ",
+   "Sector": "Financials"
+ },
+ {
+   "Symbol": "P15.SI",
+   "StockName": "PACIFIC CENTURY REGIONAL DEVTS ",
+   "Sector": "Financials"
+ },
+ {
+   "Symbol": "ADJ.SI",
+   "StockName": "PINE CAPITAL GROUP LIMITED ",
+   "Sector": "Financials"
+ },
+ {
+   "Symbol": "K6S.SI",
+   "StockName": "PRUDENTIAL PLC ",
+   "Sector": "Financials"
+ },
+ {
+   "Symbol": "5EC.SI",
+   "StockName": "REENOVA INVESTMENT HOLDING LIMITED ",
+   "Sector": "Financials"
+ },
+ {
+   "Symbol": "S35.SI",
+   "StockName": "SING INVESTMENTS & FINANCE LTD ",
+   "Sector": "Financials"
+ },
+ {
+   "Symbol": "S68.SI",
+   "StockName": "SINGAPORE EXCHANGE LIMITED ",
+   "Sector": "Financials"
+ },
+ {
+   "Symbol": "S49.SI",
+   "StockName": "SINGAPORE REINSURANCE COR LTD ",
+   "Sector": "Financials"
+ },
+ {
+   "Symbol": "S23.SI",
+   "StockName": "SINGAPURA FINANCE LTD ",
+   "Sector": "Financials"
+ },
+ {
+   "Symbol": "42T.SI",
+   "StockName": "THE TRENDLINES GROUP LTD. ",
+   "Sector": "Financials"
+ },
+ {
+   "Symbol": "T55.SI",
+   "StockName": "TIH LIMITED ",
+   "Sector": "Financials"
+ },
+ {
+   "Symbol": "CHJ.SI",
+   "StockName": "UNI-ASIA GROUP LIMITED ",
+   "Sector": "Financials"
+ },
+ {
+   "Symbol": "U11.SI",
+   "StockName": "UNITED OVERSEAS BANK LTD ",
+   "Sector": "Financials"
+ },
+ {
+   "Symbol": "U13.SI",
+   "StockName": "UNITED OVERSEAS INSURANCE LTD ",
+   "Sector": "Financials"
+ },
+ {
+   "Symbol": "U10.SI",
+   "StockName": "UOB-KAY HIAN HOLDINGS LIMITED ",
+   "Sector": "Financials"
+ },
+ {
+   "Symbol": "T6I.SI",
+   "StockName": "VALUEMAX GROUP LIMITED ",
+   "Sector": "Financials"
+ },
+ {
+   "Symbol": "MIJ.SI",
+   "StockName": "ALLIANCE HEALTHCARE GROUP LTD ",
+   "Sector": "Healthcare"
+ },
+ {
+   "Symbol": "1D4.SI",
+   "StockName": "AOXIN Q & M DENTAL GRP LIMITED ",
+   "Sector": "Healthcare"
+ },
+ {
+   "Symbol": "505.SI",
+   "StockName": "ASIAMEDIC LIMITED ",
+   "Sector": "Healthcare"
+ },
+ {
+   "Symbol": "1J3.SI",
+   "StockName": "ASIAN HEALTHCARE SPECIALISTS ",
+   "Sector": "Healthcare"
+ },
+ {
+   "Symbol": "8YY.SI",
+   "StockName": "BIOLIDICS LIMITED ",
+   "Sector": "Healthcare"
+ },
+ {
+   "Symbol": "1H3.SI",
+   "StockName": "CLEARBRIDGE HEALTH LIMITED ",
+   "Sector": "Healthcare"
+ },
+ {
+   "Symbol": "P8A.SI",
+   "StockName": "CORDLIFE GROUP LIMITED ",
+   "Sector": "Healthcare"
+ },
+ {
+   "Symbol": "H02.SI",
+   "StockName": "HAW PAR CORP LTD ",
+   "Sector": "Healthcare"
+ },
+ {
+   "Symbol": "1B1.SI",
+   "StockName": "HC SURGICAL SPECIALISTSLIMITED ",
+   "Sector": "Healthcare"
+ },
+ {
+   "Symbol": "588.SI",
+   "StockName": "HEALTH MANAGEMENT INTL LTD ",
+   "Sector": "Healthcare"
+ },
+ {
+   "Symbol": "5NG.SI",
+   "StockName": "HEALTHWAY MEDICAL CORP LTD ",
+   "Sector": "Healthcare"
+ },
+ {
+   "Symbol": "1J5.SI",
+   "StockName": "HYPHENS PHARMA INTL LIMITED ",
+   "Sector": "Healthcare"
+ },
+ {
+   "Symbol": "Q0F.SI",
+   "StockName": "IHH HEALTHCARE BERHAD ",
+   "Sector": "Healthcare"
+ },
+ {
+   "Symbol": "40T.SI",
+   "StockName": "ISEC HEALTHCARE LTD. ",
+   "Sector": "Healthcare"
+ },
+ {
+   "Symbol": "42C.SI",
+   "StockName": "IX BIOPHARMA LTD. ",
+   "Sector": "Healthcare"
+ },
+ {
+   "Symbol": "O6Z.SI",
+   "StockName": "LONZA GROUP LTD ",
+   "Sector": "Healthcare"
+ },
+ {
+   "Symbol": "OTX.SI",
+   "StockName": "MEDINEX LIMITED ",
+   "Sector": "Healthcare"
+ },
+ {
+   "Symbol": "546.SI",
+   "StockName": "MEDTECS INTERNATIONAL CORP LTD ",
+   "Sector": "Healthcare"
+ },
+ {
+   "Symbol": "5WA.SI",
+   "StockName": "OUE LIPPO HEALTHCARE LTD ",
+   "Sector": "Healthcare"
+ },
+ {
+   "Symbol": "BFK.SI",
+   "StockName": "PHARMESIS INTERNATIONAL LTD. ",
+   "Sector": "Healthcare"
+ },
+ {
+   "Symbol": "QC7.SI",
+   "StockName": "Q & M DENTAL GROUP ",
+   "Sector": "Healthcare"
+ },
+ {
+   "Symbol": "5I0.SI",
+   "StockName": "QT VASCULAR LTD. ",
+   "Sector": "Healthcare"
+ },
+ {
+   "Symbol": "BSL.SI",
+   "StockName": "RAFFLES MEDICAL GROUP LTD ",
+   "Sector": "Healthcare"
+ },
+ {
+   "Symbol": "RF1U.SI",
+   "StockName": "RHT HEALTH TRUST ",
+   "Sector": "Healthcare"
+ },
+ {
+   "Symbol": "5OT.SI",
+   "StockName": "SINGAPORE MEDICAL GROUP LTD ",
+   "Sector": "Healthcare"
+ },
+ {
+   "Symbol": "1D8.SI",
+   "StockName": "SINGAPORE O&G LTD. ",
+   "Sector": "Healthcare"
+ },
+ {
+   "Symbol": "AYL.SI",
+   "StockName": "STAR PHARMACEUTICAL LIMITED ",
+   "Sector": "Healthcare"
+ },
+ {
+   "Symbol": "5G3.SI",
+   "StockName": "TALKMED GROUP LIMITED ",
+   "Sector": "Healthcare"
+ },
+ {
+   "Symbol": "T14.SI",
+   "StockName": "TIANJIN ZHONG XIN PHARM GROUP ",
+   "Sector": "Healthcare"
+ },
+ {
+   "Symbol": "BVA.SI",
+   "StockName": "TOP GLOVE CORPORATION BHD ",
+   "Sector": "Healthcare"
+ },
+ {
+   "Symbol": "41A.SI",
+   "StockName": "UG HEALTHCARE CORPORATION LTD ",
+   "Sector": "Healthcare"
+ },
+ {
+   "Symbol": "569.SI",
+   "StockName": "VICPLAS INTERNATIONAL LTD ",
+   "Sector": "Healthcare"
+ },
+ {
+   "Symbol": "T43.SI",
+   "StockName": "YUNNAN ENERGY INTL CO. LIMITED ",
+   "Sector": "Healthcare"
+ },
+ {
+   "Symbol": "BQC.SI",
+   "StockName": "A-SMART HOLDINGS LTD. ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "BTJ.SI",
+   "StockName": "A-SONIC AEROSPACE LIMITED ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "L5I.SI",
+   "StockName": "ABTERRA LTD ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "541.SI",
+   "StockName": "ABUNDANCE INTERNATIONAL LTD ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "QZG.SI",
+   "StockName": "ACCRELIST LTD ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "5FW.SI",
+   "StockName": "ACESIAN PARTNERS LIMITED ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "AYV.SI",
+   "StockName": "ACMA LTD. ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "43F.SI",
+   "StockName": "ACROMEC LIMITED ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "43Q.SI",
+   "StockName": "ADVANCER GLOBAL LIMITED ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "AWG.SI",
+   "StockName": "AEI CORPORATION LTD ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "A13.SI",
+   "StockName": "ALLIED TECHNOLOGIES LIMITED ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "BTX.SI",
+   "StockName": "ANCHUN INTERNATIONAL HLDGS LTD ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "A55.SI",
+   "StockName": "ASIA ENTERPRISES HOLDING LTD ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "585.SI",
+   "StockName": "ASIAN MICRO HOLDINGS LTD ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "5CR.SI",
+   "StockName": "ASIATIC GROUP ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "A04.SI",
+   "StockName": "ASL MARINE HOLDINGS LTD ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "5GJ.SI",
+   "StockName": "AUSGROUP LIMITED ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "O2I.SI",
+   "StockName": "AVIC INTL MARITIME HLDGLIMITED ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "42U.SI",
+   "StockName": "AXCELASIA INC. ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "KJ5.SI",
+   "StockName": "BBR HOLDINGS ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "BEZ.SI",
+   "StockName": "BENG KUANG MARINE LIMITED ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "BQN.SI",
+   "StockName": "BH GLOBAL CORPORATION LIMITED ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "A33.SI",
+   "StockName": "BLUMONT GROUP LTD. ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "5VI.SI",
+   "StockName": "BOLDTEK HOLDINGS LIMITED ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "B28.SI",
+   "StockName": "BONVESTS HOLDINGS LTD ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "AVM.SI",
+   "StockName": "BOUSTEAD PROJECTS LIMITED ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "F9D.SI",
+   "StockName": "BOUSTEAD SINGAPORE LIMITED ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "BEC.SI",
+   "StockName": "BRC ASIA LIMITED ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "AWC.SI",
+   "StockName": "BROOK CROMPTON HOLDINGS LTD. ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "5EB.SI",
+   "StockName": "CFM HOLDINGS LIMITED ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "5QT.SI",
+   "StockName": "CHARISMA ENERGY SERVICES LTD ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "5NV.SI",
+   "StockName": "CHASEN HOLDINGS LIMITED ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "C50.SI",
+   "StockName": "CHEUNG WOH TECHNOLOGIES LTD ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "C92.SI",
+   "StockName": "CHINA HAIDA LTD. ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "GU5.SI",
+   "StockName": "CHINA KUNDA TECH HOLDINGS LTD ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "5CJ.SI",
+   "StockName": "CHINESE GLOBAL INVESTORS GRP ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "C29.SI",
+   "StockName": "CHIP ENG SENG CORPORATION LTD ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "CEE.SI",
+   "StockName": "CITIC ENVIROTECH LTD. ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "5FH.SI",
+   "StockName": "CITICODE LTD. ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "P9D.SI",
+   "StockName": "CIVMEC LIMITED ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "5GC.SI",
+   "StockName": "CNA GROUP LTD. ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "567.SI",
+   "StockName": "COLEX HOLDINGS LIMITED ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "C52.SI",
+   "StockName": "COMFORTDELGRO CORPORATION LTD ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "F83.SI",
+   "StockName": "COSCO SHIPPING INTL",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "CIN.SI",
+   "StockName": "COURAGE INVESTMENT GRP LIMITED ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "C06.SI",
+   "StockName": "CSC HOLDINGS LTD ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "BLR.SI",
+   "StockName": "DARCO WATER TECHNOLOGIES LTD ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "D11.SI",
+   "StockName": "DESIGN STUDIO GROUP LTD. ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "KUX.SI",
+   "StockName": "DLF HOLDINGS LIMITED ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "CZ4.SI",
+   "StockName": "DUTECH HOLDINGS LIMITED ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "5CT.SI",
+   "StockName": "ECOWISE HOLDINGS LIMITED ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "42Z.SI",
+   "StockName": "EINDEC CORPORATION LIMITED ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "R14.SI",
+   "StockName": "ENECO ENERGY LIMITED ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "5RC.SI",
+   "StockName": "ES GROUP ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "5TJ.SI",
+   "StockName": "FAR EAST GROUP LIMITED ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "BDU.SI",
+   "StockName": "FEDERAL INT (2000) LTD ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "5F4.SI",
+   "StockName": "FIGTREE HOLDINGS LIMITED ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "E28.SI",
+   "StockName": "FRENCKEN GROUP LIMITED ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "F13.SI",
+   "StockName": "FU YU CORPORATION LTD ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "508.SI",
+   "StockName": "FUJI OFFSET PLATES MFG LTD ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "5KT.SI",
+   "StockName": "FUJIAN ZHENYUN PLAS IND CO LTD ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "G41.SI",
+   "StockName": "G. K. GOH HOLDINGS LIMITED ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "5VP.SI",
+   "StockName": "GDS GLOBAL LIMITED ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "595.SI",
+   "StockName": "GKE CORPORATION LIMITED ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "G50.SI",
+   "StockName": "GRAND BANKS YACHTS LIMITED ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "JLB.SI",
+   "StockName": "GRAND VENTURE TECHNOLOGY LTD ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "Y06.SI",
+   "StockName": "GREEN BUILD TECHNOLOGY LIMITED ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "43A.SI",
+   "StockName": "GS HOLDINGS LIMITED ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "5VS.SI",
+   "StockName": "HAFARY HOLDINGS LIMITED ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "5VJ.SI",
+   "StockName": "HALCYON AGRI CORPORATION LTD ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "40B.SI",
+   "StockName": "HEALTHBANK HOLDINGS LIMITED ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "BTG.SI",
+   "StockName": "HG METAL MANUFACTURING LTD ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "5PO.SI",
+   "StockName": "HIAP TONG CORPORATION LTD. ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "J2T.SI",
+   "StockName": "HOCK LIAN SENG HOLDINGS LTD ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "H20.SI",
+   "StockName": "HOE LEONG CORPORATION LTD. ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "H22.SI",
+   "StockName": "HONG LEONG ASIA LTD. ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "BBP.SI",
+   "StockName": "HOR KEW CORPORATION LIMITED ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "CHZ.SI",
+   "StockName": "HRNETGROUP LIMITED ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "KI3.SI",
+   "StockName": "HU AN CABLE HOLDINGS LTD. ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "41B.SI",
+   "StockName": "HUATIONG GLOBAL LIMITED ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "P7VU.SI",
+   "StockName": "HUTCHISON PORT HLDGS TRUST S$ ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "NS8U.SI",
+   "StockName": "HUTCHISON PORT HOLDINGS TRUST ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "5I4.SI",
+   "StockName": "ICP LTD ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "M14.SI",
+   "StockName": "INNOTEK LIMITED ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "KUO.SI",
+   "StockName": "INTERNATIONAL CEMENT GROUPLTD. ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "I06.SI",
+   "StockName": "INTRACO LIMITED ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "I07.SI",
+   "StockName": "ISDN HOLDINGS LIMITED ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "5WF.SI",
+   "StockName": "ISOTEAM LTD. ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "J36.SI",
+   "StockName": "JARDINE MATHESON HLDGS LTD ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "J37.SI",
+   "StockName": "JARDINE STRATEGIC HLDGS LTD ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "5PF.SI",
+   "StockName": "JASON MARINE GROUP LIMITED ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "VFP.SI",
+   "StockName": "JCG INVESTMENT HOLDINGS LTD. ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "1J4.SI",
+   "StockName": "JEP HOLDINGS LTD. ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "EG0.SI",
+   "StockName": "JES INTERNATIONAL HOLDINGS LTD ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "NHD.SI",
+   "StockName": "JUBILEE INDUSTRIES HLDGS LTD ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "5TT.SI",
+   "StockName": "KEONG HONG HOLDINGS LIMITED ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "BN4.SI",
+   "StockName": "KEPPEL CORPORATION LIMITED ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "554.SI",
+   "StockName": "KING WAN CORPORATION LIMITED ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "5MZ.SI",
+   "StockName": "KINGSMEN CREATIVES LTD ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "504.SI",
+   "StockName": "KLW HOLDINGS LTD ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "5HV.SI",
+   "StockName": "KOH BROTHERS ECO ENGG LIMITED ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "K75.SI",
+   "StockName": "KOH BROTHERS GROUP LIMITED ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "5DL.SI",
+   "StockName": "KOON HOLDINGS LIMITED ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "5VC.SI",
+   "StockName": "KORI HOLDINGS LIMITED ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "5OC.SI",
+   "StockName": "KOYO INTERNATIONAL LIMITED ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "578.SI",
+   "StockName": "KS ENERGY LIMITED ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "ER0.SI",
+   "StockName": "KSH HOLDINGS LIMITED ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "EB7.SI",
+   "StockName": "KTL GLOBAL LIMITED ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "LS9.SI",
+   "StockName": "LEADER ENVIRONMENTAL TECH LTD ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "Q0X.SI",
+   "StockName": "LEY CHOON GROUP HLDG LIMITED ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "L03.SI",
+   "StockName": "LIAN BENG GROUP LTD ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "5TR.SI",
+   "StockName": "LIBRA GROUP LIMITED ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "F1E.SI",
+   "StockName": "LOW KENG HUAT ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "L19.SI",
+   "StockName": "LUM CHANG HOLDINGS LIMITED ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "L09.SI",
+   "StockName": "LUNG KEE (BERMUDA) HLDGS LTD ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "BKK.SI",
+   "StockName": "LUXKING GROUP HOLDINGS LIMITED ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "L02.SI",
+   "StockName": "MANHATTAN RESOURCES LIMITED ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "5LY.SI",
+   "StockName": "MARCO POLO MARINE LTD. ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "5DS.SI",
+   "StockName": "MEGACHEM LIMITED ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "5DX.SI",
+   "StockName": "METAL COMPONENT ENGG LTD ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "V3M.SI",
+   "StockName": "METECH INTERNATIONAL LTD ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "M03.SI",
+   "StockName": "MIYOSHI LIMITED ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "F3V.SI",
+   "StockName": "MMP RESOURCES LIMITED ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "5WE.SI",
+   "StockName": "MOYA HOLDINGS ASIA LIMITED ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "40U.SI",
+   "StockName": "MS HOLDINGS LIMITED ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "5QR.SI",
+   "StockName": "MSM INTERNATIONAL LIMITED ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "MF6.SI",
+   "StockName": "MUN SIONG ENGINEERING LIMITED ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "N4E.SI",
+   "StockName": "NAM CHEONG LIMITED ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "G0I.SI",
+   "StockName": "NAM LEE PRESSED METAL INDS LTD ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "5IF.SI",
+   "StockName": "NATURAL COOL HOLDINGS LIMITED ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "5UJ.SI",
+   "StockName": "NEO GROUP LIMITED ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "5FX.SI",
+   "StockName": "NEW WAVE HOLDINGS LTD. ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "N32.SI",
+   "StockName": "NIPPECRAFT LIMITED ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "CGP.SI",
+   "StockName": "NOBLE GROUP LIMITED ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "MR7.SI",
+   "StockName": "NORDIC GROUP LIMITED ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "1B6.SI",
+   "StockName": "OCEAN SKY INTERNATIONAL LTD ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "S3N.SI",
+   "StockName": "OKH GLOBAL LTD. ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "5CF.SI",
+   "StockName": "OKP HOLDINGS LIMITED ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "5AI.SI",
+   "StockName": "P5 CAPITAL HOLDINGS LTD. ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "5EW.SI",
+   "StockName": "PAN ASIAN HOLDINGS LIMITED ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "AZY.SI",
+   "StockName": "PAN OCEAN CO., LTD. ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "P52.SI",
+   "StockName": "PAN-UNITED CORPORATION LTD ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "IX2.SI",
+   "StockName": "PEC LTD. ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "BTM.SI",
+   "StockName": "PENGUIN INTERNATIONAL LIMITED ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "583.SI",
+   "StockName": "PROGEN HOLDINGS LTD ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "BLL.SI",
+   "StockName": "PSL HOLDINGS LTD ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "B66.SI",
+   "StockName": "PT BERLIAN LAJU TANKER TBK ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "K22.SI",
+   "StockName": "RAFFLES UNITED HOLDINGS LTD. ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "NEX.SI",
+   "StockName": "RECLAIMS GLOBAL LIMITED ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "AP4.SI",
+   "StockName": "RIVERSTONE HOLDINGS LIMITED ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "BDN.SI",
+   "StockName": "RYOBI KISO HOLDINGS LTD. ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "S56.SI",
+   "StockName": "SAMUDERA SHIPPING LINE LTD ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "S46.SI",
+   "StockName": "SAN TEH LIMITED ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "1E3.SI",
+   "StockName": "SANLI ENVIRONMENTAL LIMITED ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "580.SI",
+   "StockName": "SANTAK HOLDINGS LIMITED ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "BRD.SI",
+   "StockName": "SAPPHIRE CORPORATION LIMITED ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "U77.SI",
+   "StockName": "SARINE TECHNOLOGIES LTD ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "S58.SI",
+   "StockName": "SATS LTD. ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "5PL.SI",
+   "StockName": "SBI OFFSHORE LIMITED ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "S61.SI",
+   "StockName": "SBS TRANSIT LTD ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "43B.SI",
+   "StockName": "SECURA GROUP LIMITED ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "U96.SI",
+   "StockName": "SEMBCORP INDUSTRIES LTD ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "S51.SI",
+   "StockName": "SEMBCORP MARINE LTD ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "5BS.SI",
+   "StockName": "SEN YUE HOLDINGS LIMITED ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "IW5.SI",
+   "StockName": "SEROJA INVESTMENTS LIMITED ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "40R.SI",
+   "StockName": "SERRANO LIMITED ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "AWM.SI",
+   "StockName": "SHANGHAI TURBO ENTERPRISES LTD ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "BJW.SI",
+   "StockName": "SHINVEST HOLDING LTD. ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "566.SI",
+   "StockName": "SHS HOLDINGS LTD. ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "S59.SI",
+   "StockName": "SIA ENGINEERING CO LTD ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "B7K.SI",
+   "StockName": "SIN GHEE HUAT CORPORATION LTD. ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "BKA.SI",
+   "StockName": "SIN HENG HEAVY MACHINERY LTD ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "5UN.SI",
+   "StockName": "SINCAP GROUP LIMITED ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "C6L.SI",
+   "StockName": "SINGAPORE AIRLINES LTD ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "5WG.SI",
+   "StockName": "SINGAPORE KITCHEN EQUIPMENTLTD ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "S08.SI",
+   "StockName": "SINGAPORE POST LIMITED ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "S19.SI",
+   "StockName": "SINGAPORE SHIPPING CORP LTD ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "S63.SI",
+   "StockName": "SINGAPORE TECH ENGINEERING LTD ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "S7P.SI",
+   "StockName": "SOILBUILD CONSTRUCTION GRP LTD ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "5MD.SI",
+   "StockName": "SOON LIAN HOLDINGS LIMITED ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "AWE.SI",
+   "StockName": "SP CORPORATION LIMITED ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "564.SI",
+   "StockName": "SPINDEX INDUSTRIES LIMITED ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "40D.SI",
+   "StockName": "STARBURST HOLDINGS LIMITED ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "BHQ.SI",
+   "StockName": "SUNNINGDALE TECH LTD ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "5GD.SI",
+   "StockName": "SUNPOWER GROUP LTD. ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "581.SI",
+   "StockName": "SUNRISE SHARES HOLDINGS LTD. ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "QF6.SI",
+   "StockName": "SWEE HONG LIMITED ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "5UO.SI",
+   "StockName": "SYSMA HOLDINGS LIMITED ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "PA3.SI",
+   "StockName": "TA CORPORATION LTD ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "500.SI",
+   "StockName": "TAI SIN ELECTRIC LIMITED ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "561.SI",
+   "StockName": "TECKWAH INDUSTRIAL CORP LTD ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "M1Z.SI",
+   "StockName": "TEE INTERNATIONAL LIMITED ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "5OQ.SI",
+   "StockName": "TEHO INTERNATIONAL INC LTD. ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "A50.SI",
+   "StockName": "THOMSON MEDICAL GROUP LIMITED ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "BFI.SI",
+   "StockName": "TIONG SENG HOLDINGS LIMITED ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "BQM.SI",
+   "StockName": "TIONG WOON CORP HOLDING LTD ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "CYW.SI",
+   "StockName": "TRICKLESTAR LIMITED ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "5G9.SI",
+   "StockName": "TRITECH GROUP LIMITED ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "RC5.SI",
+   "StockName": "TRIYARDS HOLDINGS LIMITED ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "K1Q.SI",
+   "StockName": "TTJ HOLDINGS LIMITED ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "BLA.SI",
+   "StockName": "UNION STEEL HOLDINGS LIMITED ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "1F4.SI",
+   "StockName": "VASHION GROUP LTD. ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "40N.SI",
+   "StockName": "VERSALINK HOLDINGS LIMITED ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "BIP.SI",
+   "StockName": "VIBRANT GROUP LIMITED ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "BJD.SI",
+   "StockName": "VIBROPOWER CORPORATION LIMITED ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "V01.SI",
+   "StockName": "VICOM LTD ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "E3B.SI",
+   "StockName": "WEE HUR HOLDINGS LTD. ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "5CN.SI",
+   "StockName": "WINAS LIMITED ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "1A1.SI",
+   "StockName": "WONG FONG INDUSTRIES LIMITED ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "B49.SI",
+   "StockName": "WORLD PRECISION MACHINERY LTD ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "BQF.SI",
+   "StockName": "XMH HOLDINGS LTD. ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "BS6.SI",
+   "StockName": "YANGZIJIANG SHIPBLDG HLDGS LTD ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "SO7.SI",
+   "StockName": "YANGZIJIANG SHIPBLDG HLDGS RMB ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "BKX.SI",
+   "StockName": "YONGMAO HOLDINGS LIMITED ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "AXB.SI",
+   "StockName": "YONGNAM HOLDINGS LIMITED ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "MR8.SI",
+   "StockName": "YORKSHINE HOLDINGS LIMITED ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "40W.SI",
+   "StockName": "ZICO HOLDINGS INC. ",
+   "Sector": "Industrials"
+ },
+ {
+   "Symbol": "AZG.SI",
+   "StockName": "8TELECOM INTL HOLDINGS CO LTD ",
+   "Sector": "Information Technology"
+ },
+ {
+   "Symbol": "5GZ.SI",
+   "StockName": "AA GROUP HOLDINGS LTD. ",
+   "Sector": "Information Technology"
+ },
+ {
+   "Symbol": "A31.SI",
+   "StockName": "ADDVALUE TECHNOLOGIES LTD ",
+   "Sector": "Information Technology"
+ },
+ {
+   "Symbol": "5TY.SI",
+   "StockName": "ADVANCED SYSTEMS AUTOMATION ",
+   "Sector": "Information Technology"
+ },
+ {
+   "Symbol": "AWX.SI",
+   "StockName": "AEM HOLDINGS LTD ",
+   "Sector": "Information Technology"
+ },
+ {
+   "Symbol": "5NK.SI",
+   "StockName": "ARTIVISION TECHNOLOGIES LTD. ",
+   "Sector": "Information Technology"
+ },
+ {
+   "Symbol": "5RE.SI",
+   "StockName": "ASIA VETS HOLDINGS LTD. ",
+   "Sector": "Information Technology"
+ },
+ {
+   "Symbol": "575.SI",
+   "StockName": "ASTI HOLDINGS LIMITED ",
+   "Sector": "Information Technology"
+ },
+ {
+   "Symbol": "BKY.SI",
+   "StockName": "AVI-TECH ELECTRONICS LIMITED ",
+   "Sector": "Information Technology"
+ },
+ {
+   "Symbol": "BBW.SI",
+   "StockName": "AZEUS SYSTEMS HOLDINGS LTD. ",
+   "Sector": "Information Technology"
+ },
+ {
+   "Symbol": "B26.SI",
+   "StockName": "BAN LEONG TECHNOLOGIES LIMITED ",
+   "Sector": "Information Technology"
+ },
+ {
+   "Symbol": "B69.SI",
+   "StockName": "BROADWAY INDUSTRIAL GROUP LTD ",
+   "Sector": "Information Technology"
+ },
+ {
+   "Symbol": "AWV.SI",
+   "StockName": "CAPTII LIMITED ",
+   "Sector": "Information Technology"
+ },
+ {
+   "Symbol": "BXE.SI",
+   "StockName": "CDW HOLDING LIMITED ",
+   "Sector": "Information Technology"
+ },
+ {
+   "Symbol": "AVV.SI",
+   "StockName": "CEI LIMITED ",
+   "Sector": "Information Technology"
+ },
+ {
+   "Symbol": "C33.SI",
+   "StockName": "CHUAN HUP HOLDINGS LIMITED ",
+   "Sector": "Information Technology"
+ },
+ {
+   "Symbol": "539.SI",
+   "StockName": "CPH LTD ",
+   "Sector": "Information Technology"
+ },
+ {
+   "Symbol": "C76.SI",
+   "StockName": "CREATIVE TECHNOLOGY LTD ",
+   "Sector": "Information Technology"
+ },
+ {
+   "Symbol": "544.SI",
+   "StockName": "CSE GLOBAL LTD ",
+   "Sector": "Information Technology"
+ },
+ {
+   "Symbol": "BKW.SI",
+   "StockName": "DATAPULSE TECHNOLOGY LIMITED ",
+   "Sector": "Information Technology"
+ },
+ {
+   "Symbol": "532.SI",
+   "StockName": "DISA LIMITED ",
+   "Sector": "Information Technology"
+ },
+ {
+   "Symbol": "MT1.SI",
+   "StockName": "DRAGON GROUP INTL LIMITED ",
+   "Sector": "Information Technology"
+ },
+ {
+   "Symbol": "E16.SI",
+   "StockName": "ELEC & ELTEK INT CO LTD ",
+   "Sector": "Information Technology"
+ },
+ {
+   "Symbol": "BIX.SI",
+   "StockName": "ELLIPSIZ LTD ",
+   "Sector": "Information Technology"
+ },
+ {
+   "Symbol": "BDF.SI",
+   "StockName": "EXCELPOINT TECHNOLOGY LTD ",
+   "Sector": "Information Technology"
+ },
+ {
+   "Symbol": "QS9.SI",
+   "StockName": "GLOBAL INVACOM GROUP LIMITED ",
+   "Sector": "Information Technology"
+ },
+ {
+   "Symbol": "AYN.SI",
+   "StockName": "GLOBAL TESTING CORPORATION LTD ",
+   "Sector": "Information Technology"
+ },
+ {
+   "Symbol": "G20.SI",
+   "StockName": "GP INDUSTRIES LIMITED ",
+   "Sector": "Information Technology"
+ },
+ {
+   "Symbol": "BLU.SI",
+   "StockName": "GRP LTD ",
+   "Sector": "Information Technology"
+ },
+ {
+   "Symbol": "41F.SI",
+   "StockName": "GSS ENERGY LIMITED ",
+   "Sector": "Information Technology"
+ },
+ {
+   "Symbol": "H17.SI",
+   "StockName": "HI-P INTERNATIONAL LIMITED ",
+   "Sector": "Information Technology"
+ },
+ {
+   "Symbol": "H16.SI",
+   "StockName": "HUAN HSIN HOLDINGS LTD ",
+   "Sector": "Information Technology"
+ },
+ {
+   "Symbol": "571.SI",
+   "StockName": "INTERNATIONAL PRESS SOFTCOM ",
+   "Sector": "Information Technology"
+ },
+ {
+   "Symbol": "42N.SI",
+   "StockName": "IPS SECUREX HOLDINGS LIMITED ",
+   "Sector": "Information Technology"
+ },
+ {
+   "Symbol": "J03.SI",
+   "StockName": "JADASON ENTERPRISES LTD ",
+   "Sector": "Information Technology"
+ },
+ {
+   "Symbol": "K29.SI",
+   "StockName": "KARIN TECHNOLOGY HLDGS LIMITED ",
+   "Sector": "Information Technology"
+ },
+ {
+   "Symbol": "A27.SI",
+   "StockName": "MDR LIMITED ",
+   "Sector": "Information Technology"
+ },
+ {
+   "Symbol": "M11.SI",
+   "StockName": "MFG INTEGRATION TECHNOLOGY LTD ",
+   "Sector": "Information Technology"
+ },
+ {
+   "Symbol": "5DD.SI",
+   "StockName": "MICRO-MECHANICS (HOLDINGS) LTD ",
+   "Sector": "Information Technology"
+ },
+ {
+   "Symbol": "AWZ.SI",
+   "StockName": "MULTI-CHEM LIMITED ",
+   "Sector": "Information Technology"
+ },
+ {
+   "Symbol": "PJX.SI",
+   "StockName": "MURATA MFG CO LTD 100 ",
+   "Sector": "Information Technology"
+ },
+ {
+   "Symbol": "N01.SI",
+   "StockName": "NERATELECOMMUNICATIONS LTD ",
+   "Sector": "Information Technology"
+ },
+ {
+   "Symbol": "5GF.SI",
+   "StockName": "NICO STEEL HOLDINGS LIMITED ",
+   "Sector": "Information Technology"
+ },
+ {
+   "Symbol": "5HC.SI",
+   "StockName": "NTEGRATOR INTERNATIONAL LTD ",
+   "Sector": "Information Technology"
+ },
+ {
+   "Symbol": "5PI.SI",
+   "StockName": "PLATO CAPITAL LIMITED ",
+   "Sector": "Information Technology"
+ },
+ {
+   "Symbol": "BDA.SI",
+   "StockName": "PNE INDUSTRIES LTD ",
+   "Sector": "Information Technology"
+ },
+ {
+   "Symbol": "BCY.SI",
+   "StockName": "POWERMATIC DATA SYSTEMS LTD ",
+   "Sector": "Information Technology"
+ },
+ {
+   "Symbol": "BVQ.SI",
+   "StockName": "PROCURRI CORPORATION LIMITED ",
+   "Sector": "Information Technology"
+ },
+ {
+   "Symbol": "S69.SI",
+   "StockName": "SERIAL SYSTEM LTD ",
+   "Sector": "Information Technology"
+ },
+ {
+   "Symbol": "5CP.SI",
+   "StockName": "SILVERLAKE AXIS LTD ",
+   "Sector": "Information Technology"
+ },
+ {
+   "Symbol": "5EK.SI",
+   "StockName": "SINOCLOUD GROUP LIMITED ",
+   "Sector": "Information Technology"
+ },
+ {
+   "Symbol": "S71.SI",
+   "StockName": "SUNRIGHT LTD ",
+   "Sector": "Information Technology"
+ },
+ {
+   "Symbol": "BEV.SI",
+   "StockName": "SWING MEDIA TECHNOLOGY GRP LTD ",
+   "Sector": "Information Technology"
+ },
+ {
+   "Symbol": "V2Y.SI",
+   "StockName": "SYNAGIE CORPORATION LTD. ",
+   "Sector": "Information Technology"
+ },
+ {
+   "Symbol": "T41.SI",
+   "StockName": "TELECHOICE INTERNATIONAL LTD ",
+   "Sector": "Information Technology"
+ },
+ {
+   "Symbol": "BRR.SI",
+   "StockName": "THE STRATECH GROUP LIMITED ",
+   "Sector": "Information Technology"
+ },
+ {
+   "Symbol": "5AB.SI",
+   "StockName": "TREK 2000 INT'L LTD ",
+   "Sector": "Information Technology"
+ },
+ {
+   "Symbol": "558.SI",
+   "StockName": "UMS HOLDINGS LIMITED ",
+   "Sector": "Information Technology"
+ },
+ {
+   "Symbol": "BN2.SI",
+   "StockName": "VALUETRONICS HOLDINGS LIMITED ",
+   "Sector": "Information Technology"
+ },
+ {
+   "Symbol": "V03.SI",
+   "StockName": "VENTURE CORPORATION LIMITED ",
+   "Sector": "Information Technology"
+ },
+ {
+   "Symbol": "BDR.SI",
+   "StockName": "WILLAS-ARRAY ELEC (HLDGS) LTD ",
+   "Sector": "Information Technology"
+ },
+ {
+   "Symbol": "AFC.SI",
+   "StockName": "YUUZOO NETWORKS GROUP CORP ",
+   "Sector": "Information Technology"
+ },
+ {
+   "Symbol": "1A4.SI",
+   "StockName": "AGV GROUP LIMITED ",
+   "Sector": "Materials"
+ },
+ {
+   "Symbol": "40F.SI",
+   "StockName": "ALITA RESOURCES LIMITED ",
+   "Sector": "Materials"
+ },
+ {
+   "Symbol": "43E.SI",
+   "StockName": "ANCHOR RESOURCES LIMITED ",
+   "Sector": "Materials"
+ },
+ {
+   "Symbol": "A52.SI",
+   "StockName": "ANNAIK LIMITED ",
+   "Sector": "Materials"
+ },
+ {
+   "Symbol": "5AU.SI",
+   "StockName": "AP OIL INTERNATIONAL LIMITED ",
+   "Sector": "Materials"
+ },
+ {
+   "Symbol": "5WV.SI",
+   "StockName": "ASIAPHOS LIMITED ",
+   "Sector": "Materials"
+ },
+ {
+   "Symbol": "U09.SI",
+   "StockName": "AVARGA LIMITED ",
+   "Sector": "Materials"
+ },
+ {
+   "Symbol": "I9T.SI",
+   "StockName": "BM MOBILITY LTD. ",
+   "Sector": "Materials"
+ },
+ {
+   "Symbol": "C05.SI",
+   "StockName": "CHEMICAL INDUSTRIES ",
+   "Sector": "Materials"
+ },
+ {
+   "Symbol": "C71.SI",
+   "StockName": "CHINA PAPER HOLDINGS LIMITED ",
+   "Sector": "Materials"
+ },
+ {
+   "Symbol": "CH8.SI",
+   "StockName": "CHINA SUNSINE CHEM HLDGS LTD. ",
+   "Sector": "Materials"
+ },
+ {
+   "Symbol": "5TP.SI",
+   "StockName": "CNMC GOLDMINE HOLDINGS LIMITED ",
+   "Sector": "Materials"
+ },
+ {
+   "Symbol": "D6U.SI",
+   "StockName": "DYNAMIC COLOURS LIMITED ",
+   "Sector": "Materials"
+ },
+ {
+   "Symbol": "S44.SI",
+   "StockName": "ENGRO CORPORATION LIMITED ",
+   "Sector": "Materials"
+ },
+ {
+   "Symbol": "L23.SI",
+   "StockName": "ENVIRO-HUB HOLDINGS LTD ",
+   "Sector": "Materials"
+ },
+ {
+   "Symbol": "BFT.SI",
+   "StockName": "FABCHEM CHINA LIMITED ",
+   "Sector": "Materials"
+ },
+ {
+   "Symbol": "OAJ.SI",
+   "StockName": "FORTRESS MINERALS LIMITED ",
+   "Sector": "Materials"
+ },
+ {
+   "Symbol": "BTY.SI",
+   "StockName": "FULL APEX HOLDINGS) LIMITED ",
+   "Sector": "Materials"
+ },
+ {
+   "Symbol": "41T.SI",
+   "StockName": "GCCP RESOURCES LIMITED ",
+   "Sector": "Materials"
+ },
+ {
+   "Symbol": "1J7.SI",
+   "StockName": "JAWALA INC. ",
+   "Sector": "Materials"
+ },
+ {
+   "Symbol": "C8R.SI",
+   "StockName": "JIUTIAN CHEMICAL GROUP LIMITED ",
+   "Sector": "Materials"
+ },
+ {
+   "Symbol": "BEI.SI",
+   "StockName": "LHT HOLDINGS LIMITED ",
+   "Sector": "Materials"
+ },
+ {
+   "Symbol": "BAZ.SI",
+   "StockName": "LION ASIAPAC LTD ",
+   "Sector": "Materials"
+ },
+ {
+   "Symbol": "A78.SI",
+   "StockName": "LIONGOLD CORP LTD ",
+   "Sector": "Materials"
+ },
+ {
+   "Symbol": "NPW.SI",
+   "StockName": "MALAYSIA SMELTING CORP BHD ",
+   "Sector": "Materials"
+ },
+ {
+   "Symbol": "M15.SI",
+   "StockName": "MATEX INTERNATIONAL LIMITED ",
+   "Sector": "Materials"
+ },
+ {
+   "Symbol": "M30.SI",
+   "StockName": "MEGHMANI ORGANICS LIMITED ",
+   "Sector": "Materials"
+ },
+ {
+   "Symbol": "5MS.SI",
+   "StockName": "MEMSTAR TECHNOLOGY LTD. ",
+   "Sector": "Materials"
+ },
+ {
+   "Symbol": "5EN.SI",
+   "StockName": "MIDAS HLDGS LIMITED ",
+   "Sector": "Materials"
+ },
+ {
+   "Symbol": "N08.SI",
+   "StockName": "NEW TOYO INT HLDGS LTD ",
+   "Sector": "Materials"
+ },
+ {
+   "Symbol": "N02.SI",
+   "StockName": "NSL LTD. ",
+   "Sector": "Materials"
+ },
+ {
+   "Symbol": "5G4.SI",
+   "StockName": "RICH CAPITAL HOLDINGS LIMITED ",
+   "Sector": "Materials"
+ },
+ {
+   "Symbol": "1C3.SI",
+   "StockName": "SAMURAI 2K AEROSOL LIMITED ",
+   "Sector": "Materials"
+ },
+ {
+   "Symbol": "STP.SI",
+   "StockName": "SILKROAD NICKEL LTD. ",
+   "Sector": "Materials"
+ },
+ {
+   "Symbol": "S20.SI",
+   "StockName": "STRAITS TRADING CO. LTD ",
+   "Sector": "Materials"
+ },
+ {
+   "Symbol": "A7S.SI",
+   "StockName": "SUNVIC CHEMICAL HOLDINGS LTD ",
+   "Sector": "Materials"
+ },
+ {
+   "Symbol": "T12.SI",
+   "StockName": "TAT SENG PACKAGING GROUP LTD ",
+   "Sector": "Materials"
+ },
+ {
+   "Symbol": "570.SI",
+   "StockName": "TRANSIT-MIXED CONCRETE LTD ",
+   "Sector": "Materials"
+ },
+ {
+   "Symbol": "43P.SI",
+   "StockName": "UNITED GLOBAL LIMITED ",
+   "Sector": "Materials"
+ },
+ {
+   "Symbol": "5F7.SI",
+   "StockName": "WILTON RESOURCES CORP LIMITED ",
+   "Sector": "Materials"
+ },
+ {
+   "Symbol": "502.SI",
+   "StockName": "3CNERGY LIMITED ",
+   "Sector": "Real Estate"
+ },
+ {
+   "Symbol": "BVP.SI",
+   "StockName": "AIMS PROPERTY SECURITIES FUND ",
+   "Sector": "Real Estate"
+ },
+ {
+   "Symbol": "AOF.SI",
+   "StockName": "AMPLEFIELD LIMITED ",
+   "Sector": "Real Estate"
+ },
+ {
+   "Symbol": "CLN.SI",
+   "StockName": "APAC REALTY LIMITED ",
+   "Sector": "Real Estate"
+ },
+ {
+   "Symbol": "CY6U.SI",
+   "StockName": "ASCENDAS INDIA TRUST ",
+   "Sector": "Real Estate"
+ },
+ {
+   "Symbol": "1F3.SI",
+   "StockName": "ASPEN GROUP) HOLDINGS LIMITED ",
+   "Sector": "Real Estate"
+ },
+ {
+   "Symbol": "A30.SI",
+   "StockName": "ASPIAL CORPORATION LIMITED ",
+   "Sector": "Real Estate"
+ },
+ {
+   "Symbol": "42S.SI",
+   "StockName": "ASTAKA HOLDINGS LIMITED ",
+   "Sector": "Real Estate"
+ },
+ {
+   "Symbol": "B61.SI",
+   "StockName": "BUKIT SEMBAWANG ESTATES LTD ",
+   "Sector": "Real Estate"
+ },
+ {
+   "Symbol": "BTE.SI",
+   "StockName": "BUND CENTER INVESTMENT LTD ",
+   "Sector": "Real Estate"
+ },
+ {
+   "Symbol": "1D5.SI",
+   "StockName": "CAPITAL WORLD LIMITED. ",
+   "Sector": "Real Estate"
+ },
+ {
+   "Symbol": "C31.SI",
+   "StockName": "CAPITALAND LIMITED ",
+   "Sector": "Real Estate"
+ },
+ {
+   "Symbol": "OU8.SI",
+   "StockName": "CENTURION CORPORATION LIMITED ",
+   "Sector": "Real Estate"
+ },
+ {
+   "Symbol": "BHD.SI",
+   "StockName": "CHINA MINING INTERNATIONAL LTD ",
+   "Sector": "Real Estate"
+ },
+ {
+   "Symbol": "5RA.SI",
+   "StockName": "CHINA REAL ESTATE GRP LTD. ",
+   "Sector": "Real Estate"
+ },
+ {
+   "Symbol": "BCD.SI",
+   "StockName": "CHINA YUANBANG PROP HLDGS LTD ",
+   "Sector": "Real Estate"
+ },
+ {
+   "Symbol": "C09.SI",
+   "StockName": "CITY DEVELOPMENTS LIMITED ",
+   "Sector": "Real Estate"
+ },
+ {
+   "Symbol": "CEDU.SI",
+   "StockName": "DASIN RETAIL TRUST ",
+   "Sector": "Real Estate"
+ },
+ {
+   "Symbol": "BTF.SI",
+   "StockName": "DEBAO PROPERTY DEVELOPMENT LTD ",
+   "Sector": "Real Estate"
+ },
+ {
+   "Symbol": "1C0.SI",
+   "StockName": "EMERGING TOWNS&CITIES SING LTD ",
+   "Sector": "Real Estate"
+ },
+ {
+   "Symbol": "O10.SI",
+   "StockName": "FAR EAST ORCHARD LIMITED ",
+   "Sector": "Real Estate"
+ },
+ {
+   "Symbol": "ADN.SI",
+   "StockName": "FIRST SPONSOR GROUP LIMITED ",
+   "Sector": "Real Estate"
+ },
+ {
+   "Symbol": "F31.SI",
+   "StockName": "FRAGRANCE GROUP LIMITED ",
+   "Sector": "Real Estate"
+ },
+ {
+   "Symbol": "TQ5.SI",
+   "StockName": "FRASERS PROPERTY LIMITED ",
+   "Sector": "Real Estate"
+ },
+ {
+   "Symbol": "586.SI",
+   "StockName": "GLOBAL DRAGON LIMITED ",
+   "Sector": "Real Estate"
+ },
+ {
+   "Symbol": "5PC.SI",
+   "StockName": "GOODLAND GROUP LIMITED ",
+   "Sector": "Real Estate"
+ },
+ {
+   "Symbol": "BDX.SI",
+   "StockName": "GSH CORPORATION LIMITED ",
+   "Sector": "Real Estate"
+ },
+ {
+   "Symbol": "F17.SI",
+   "StockName": "GUOCOLAND LIMITED ",
+   "Sector": "Real Estate"
+ },
+ {
+   "Symbol": "AWS.SI",
+   "StockName": "GYP PROPERTIES LIMITED ",
+   "Sector": "Real Estate"
+ },
+ {
+   "Symbol": "PH0.SI",
+   "StockName": "HATTEN LAND LIMITED ",
+   "Sector": "Real Estate"
+ },
+ {
+   "Symbol": "5DP.SI",
+   "StockName": "HEETON HOLDINGS LIMITED ",
+   "Sector": "Real Estate"
+ },
+ {
+   "Symbol": "5JK.SI",
+   "StockName": "HIAP HOE LIMITED ",
+   "Sector": "Real Estate"
+ },
+ {
+   "Symbol": "H13.SI",
+   "StockName": "HO BEE LAND LIMITED ",
+   "Sector": "Real Estate"
+ },
+ {
+   "Symbol": "H30.SI",
+   "StockName": "HONG FOK CORPORATION LTD ",
+   "Sector": "Real Estate"
+ },
+ {
+   "Symbol": "CTO.SI",
+   "StockName": "HONG LAI HUAT GROUP LIMITED ",
+   "Sector": "Real Estate"
+ },
+ {
+   "Symbol": "H78.SI",
+   "StockName": "HONGKONG LAND HOLDINGS LIMITED ",
+   "Sector": "Real Estate"
+ },
+ {
+   "Symbol": "H19.SI",
+   "StockName": "HWA HONG CORPORATION LIMITED ",
+   "Sector": "Real Estate"
+ },
+ {
+   "Symbol": "5HT.SI",
+   "StockName": "IMPERIUM CROWN LIMITED ",
+   "Sector": "Real Estate"
+ },
+ {
+   "Symbol": "AZA.SI",
+   "StockName": "IPC CORPORATION LIMITED ",
+   "Sector": "Real Estate"
+ },
+ {
+   "Symbol": "AYB.SI",
+   "StockName": "LAFE CORPORATION LIMITED ",
+   "Sector": "Real Estate"
+ },
+ {
+   "Symbol": "BJL.SI",
+   "StockName": "LCT HOLDINGS LIMITED ",
+   "Sector": "Real Estate"
+ },
+ {
+   "Symbol": "41O.SI",
+   "StockName": "LHN LIMITED ",
+   "Sector": "Real Estate"
+ },
+ {
+   "Symbol": "F86.SI",
+   "StockName": "MYP LTD. ",
+   "Sector": "Real Estate"
+ },
+ {
+   "Symbol": "1H2.SI",
+   "StockName": "OLIVE TREE ESTATES LIMITED ",
+   "Sector": "Real Estate"
+ },
+ {
+   "Symbol": "LJ3.SI",
+   "StockName": "OUE LIMITED ",
+   "Sector": "Real Estate"
+ },
+ {
+   "Symbol": "5UX.SI",
+   "StockName": "OXLEY HOLDINGS LIMITED ",
+   "Sector": "Real Estate"
+ },
+ {
+   "Symbol": "1C5.SI",
+   "StockName": "PACIFIC STAR DEVELOPMENT LTD ",
+   "Sector": "Real Estate"
+ },
+ {
+   "Symbol": "P36.SI",
+   "StockName": "PAN HONG HOLDINGS GROUP LTD ",
+   "Sector": "Real Estate"
+ },
+ {
+   "Symbol": "40S.SI",
+   "StockName": "PERENNIAL REAL ESTATE HLDGSLTD ",
+   "Sector": "Real Estate"
+ },
+ {
+   "Symbol": "5AE.SI",
+   "StockName": "POLLUX PROPERTIES LTD. ",
+   "Sector": "Real Estate"
+ },
+ {
+   "Symbol": "OYY.SI",
+   "StockName": "PROPNEX LIMITED ",
+   "Sector": "Real Estate"
+ },
+ {
+   "Symbol": "UV1.SI",
+   "StockName": "REGAL INTERNATIONAL GROUP LTD ",
+   "Sector": "Real Estate"
+ },
+ {
+   "Symbol": "E8Z.SI",
+   "StockName": "ROXY-PACIFIC HOLDINGS LIMITED ",
+   "Sector": "Real Estate"
+ },
+ {
+   "Symbol": "A26.SI",
+   "StockName": "SINARMAS LAND LIMITED ",
+   "Sector": "Real Estate"
+ },
+ {
+   "Symbol": "5IC.SI",
+   "StockName": "SING HOLDINGS LIMITED ",
+   "Sector": "Real Estate"
+ },
+ {
+   "Symbol": "40V.SI",
+   "StockName": "SINGAPORE EDEVELOPMENT LTD ",
+   "Sector": "Real Estate"
+ },
+ {
+   "Symbol": "5H0.SI",
+   "StockName": "SINGHAIYI GROUP LTD ",
+   "Sector": "Real Estate"
+ },
+ {
+   "Symbol": "1J0.SI",
+   "StockName": "SLB DEVELOPMENT LTD. ",
+   "Sector": "Real Estate"
+ },
+ {
+   "Symbol": "5UA.SI",
+   "StockName": "STARLAND HOLDINGS LIMITED ",
+   "Sector": "Real Estate"
+ },
+ {
+   "Symbol": "S9B.SI",
+   "StockName": "TEE LAND LIMITED ",
+   "Sector": "Real Estate"
+ },
+ {
+   "Symbol": "BHO.SI",
+   "StockName": "TOP GLOBAL LIMITED ",
+   "Sector": "Real Estate"
+ },
+ {
+   "Symbol": "S2D.SI",
+   "StockName": "TOSEI CORPORATION ",
+   "Sector": "Real Estate"
+ },
+ {
+   "Symbol": "T24.SI",
+   "StockName": "TUAN SING HOLDINGS LIMITED ",
+   "Sector": "Real Estate"
+ },
+ {
+   "Symbol": "U04.SI",
+   "StockName": "UNITED ENGINEERS LTD ORD ",
+   "Sector": "Real Estate"
+ },
+ {
+   "Symbol": "U06.SI",
+   "StockName": "UNITED INDUSTRIAL CORP LTD ",
+   "Sector": "Real Estate"
+ },
+ {
+   "Symbol": "EH5.SI",
+   "StockName": "UNITED OVERSEAS AUSTRALIA LTD ",
+   "Sector": "Real Estate"
+ },
+ {
+   "Symbol": "U14.SI",
+   "StockName": "UOL GROUP LIMITED ",
+   "Sector": "Real Estate"
+ },
+ {
+   "Symbol": "W05.SI",
+   "StockName": "WING TAI HLDGS LTD ",
+   "Sector": "Real Estate"
+ },
+ {
+   "Symbol": "1E6.SI",
+   "StockName": "WORLD CLASS GLOBAL LIMITED ",
+   "Sector": "Real Estate"
+ },
+ {
+   "Symbol": "Z25.SI",
+   "StockName": "YANLORD LAND GROUP LIMITED ",
+   "Sector": "Real Estate"
+ },
+ {
+   "Symbol": "5DM.SI",
+   "StockName": "YING LI INTL REAL ESTATE LTD ",
+   "Sector": "Real Estate"
+ },
+ {
+   "Symbol": "Z59.SI",
+   "StockName": "YOMA STRATEGIC HOLDINGS LTD ",
+   "Sector": "Real Estate"
+ },
+ {
+   "Symbol": "D79.SI",
+   "StockName": "C&G ENV PROTECT HLDGS LTD ",
+   "Sector": "Utilities"
+ },
+ {
+   "Symbol": "U9E.SI",
+   "StockName": "CHINA EVERBRIGHT WATER LIMITED ",
+   "Sector": "Utilities"
+ },
+ {
+   "Symbol": "BEH.SI",
+   "StockName": "CHINA INTERNATIONAL HLDGS LTD ",
+   "Sector": "Utilities"
+ },
+ {
+   "Symbol": "BWM.SI",
+   "StockName": "CHINA JINJIANG ENV HLDG CO LTD ",
+   "Sector": "Utilities"
+ },
+ {
+   "Symbol": "600.SI",
+   "StockName": "HYFLUX LTD ",
+   "Sector": "Utilities"
+ },
+ {
+   "Symbol": "A7RU.SI",
+   "StockName": "KEPPEL INFRA TRUST WEF 2015 ",
+   "Sector": "Utilities"
+ },
+ {
+   "Symbol": "I11.SI",
+   "StockName": "RENAISSANCE UNITED LIMITED ",
+   "Sector": "Utilities"
+ },
+ {
+   "Symbol": "5DW.SI",
+   "StockName": "RENEWABLE ENERGY ASIA GRP LTD ",
+   "Sector": "Utilities"
+ },
+ {
+   "Symbol": "BHK.SI",
+   "StockName": "SIIC ENVIRONMENT HOLDINGS LTD. ",
+   "Sector": "Utilities"
+ },
+ {
+   "Symbol": "1F2.SI",
+   "StockName": "UNION GAS HOLDINGS LIMITED ",
+   "Sector": "Utilities"
+ }
+]
